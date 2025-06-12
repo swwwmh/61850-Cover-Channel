@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 11 00:33:30 2025
-
-@author: mh
-"""
 
 def extract_and_process_data(file_path):
     """从文件中提取十六进制报文并处理，生成指定位置字节的比特串，包含时间戳"""
